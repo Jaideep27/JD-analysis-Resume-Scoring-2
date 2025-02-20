@@ -1,4 +1,4 @@
-# JD Analysis and Resume Ranking 🎯
+# JD-analysis-Resume-Scoring-2🎯
 
 An intelligent FastAPI application leveraging Google's Gemini AI models to automate resume evaluation and job description analysis. The system provides two main functionalities: job description criteria extraction and resume scoring.
 
@@ -6,9 +6,6 @@ An intelligent FastAPI application leveraging Google's Gemini AI models to autom
 
 ```
 JD insights & Resume Scoring/
-├── __pycache__/
-├── .git/
-├── .venv/
 ├── models/
 │   ├── __pycache__/
 │   ├── config.py               # Configuration settings
@@ -26,8 +23,6 @@ JD insights & Resume Scoring/
 ├── Resumes/                    # Storage for resume files
 ├── task_1 (Sample_Outputs)/    # Sample outputs from JD analysis
 ├── task_2 (Sample_Outputs)/    # Sample outputs from resume scoring
-├── temp/                       # Temporary file storage
-├── .env                        # Environment variables
 ├── .gitignore                  # Git ignore rules
 ├── main.py                     # Application entry point
 └── requirements                # Project dependencies
