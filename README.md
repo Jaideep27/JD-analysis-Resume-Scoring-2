@@ -25,7 +25,7 @@ JD insights & Resume Scoring/
 ├── task_2 (Sample_Outputs)/    # Sample outputs from resume scoring
 ├── .gitignore                  # Git ignore rules
 ├── main.py                     # Application entry point
-└── requirements                # Project dependencies
+└── requirements.txt            # Project dependencies
 ```
 
 ## Features ⚡
